@@ -1,0 +1,12 @@
+{
+    "id": "https://raw.githubusercontent.com/w3c-social/social-web/master/phubble-acl.json",
+    "members": [
+        "https://rhiaro.co.uk/",
+        "https://ben.thatmustbe.me/",
+        "https://aaronparecki.com/",
+        "https://tantek.com/",
+        "https://kylewm.com/",
+        "https://tsyesika.se/"
+    ],
+    "name": "w3c-social"
+}
